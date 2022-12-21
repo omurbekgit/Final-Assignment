@@ -1,6 +1,9 @@
 # Final-Assignment Omurbek, Nurislam, Tilek, Shekerbek
 Необходимо разработать небольшой интернет-магазин или подобие магазина, в котором будут находиться товары или услуги 
 
+All details about the task
+[final_task (1).pdf](https://github.com/omurbekgit/Final-Assignment/files/10280152/final_task.1.pdf)
+
 Code part html css js
 https://user-images.githubusercontent.com/102717037/208970085-19446ce4-65ef-4574-bb93-677a80df47cd.mp4
 
@@ -28,5 +31,3 @@ https://user-images.githubusercontent.com/102717037/208974296-3f77663e-dc40-43ae
 Code part LOG IN
 https://user-images.githubusercontent.com/102717037/208974730-6d4e85a0-f020-4a22-95f2-3adcabf63157.mp4
 
-All details about the task
-[final_task (1).pdf](https://github.com/omurbekgit/Final-Assignment/files/10280152/final_task.1.pdf)
