@@ -2,7 +2,7 @@
 Необходимо разработать небольшой интернет-магазин или подобие магазина, в котором будут находиться товары или услуги 
 
 Code part html css js
-https://user-images.githubusercontent.com/102717037/208970085-19446ce4-65ef-4574-bb93-677a80df47cd.gif
+https://user-images.githubusercontent.com/102717037/208970085-19446ce4-65ef-4574-bb93-677a80df47cd.mp4
 
 Code part folder
 https://user-images.githubusercontent.com/102717037/208970975-d2a10017-d4cc-409a-a268-4e8e8baabf1f.mp4
